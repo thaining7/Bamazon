@@ -22,7 +22,7 @@ function start() {
         .prompt({
             name: "welcome",
             type: "list",
-            message: "Welcome to Bamazon, the home of certified ACME goods. Would you like to place an order?",
+            message: "Welcome to Bamazon, your source for certified ACME goods. Would you like to place an order?",
             choices: ["YES", "NO"]
         })
         .then(function (answer) {
