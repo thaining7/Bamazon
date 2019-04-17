@@ -6,12 +6,16 @@
 
 Here are some screenshots demonstrating how the Bamazon storefront works:
 
+Welcome Screen
 ![Welcome Screen](Screenshot1.png)
 
+Select an item to order:
 ![Select an item to order](Screenshot3.png)
 
+Select the quantity of the item:
 ![Select the quantity of the item](Screenshot4.png)
 
+When the order is placed, the app returns to the storefront:
 ![When the order is placed, the app returns to the store front](Screenshot1.png)
 
 ## Introducing Bamazon Manager, your management solution for certified ACME goods
@@ -20,14 +24,20 @@ Here are some screenshots demonstrating how the Bamazon storefront works:
 
 Here are some screenshots demonstrating how the Bamazon Manger app works:
 
-![Welcome Screen](Screenshot (13).png)
+Welcome screen:
+![Welcome Screen](Screenshot13.png)
 
-![View products for sale](Screenshot (14).png)
+View products for sale:
+![View products for sale](Screenshot14.png)
 
-![View low inventory, displays products below a stock quantity of 5](Screenshot (15).png)
+View low inventory to display products with stock quantity below 5:
+![View low inventory, displays products below a stock quantity of 5](Screenshot15.png)
 
-![Add to inventory](Screenshot (17).png)
+Add to inventory:
+![Add to inventory](Screenshot17.png)
 
-![Add new product](Screenshot (18).png)
+Add a new product:
+![Add new product](Screenshot18.png)
 
-![Updated database showing new product added](Screenshot (19).png)
+Updated database displaying new product:
+![Updated database showing new product added](Screenshot19.png)
