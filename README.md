@@ -16,7 +16,10 @@ Select the quantity of the item:
 ![Select the quantity of the item](Screenshot4.png)
 
 When the order is placed, the app returns to the storefront:
-![When the order is placed, the app returns to the store front](Screenshot1.png)
+![When the order is placed, the app returns to the store front](Screenshot5.png)
+
+Updated database reflecting order placed:
+![Updated database](Screenshot6.png)
 
 ## Introducing Bamazon Manager, your management solution for certified ACME goods
 
