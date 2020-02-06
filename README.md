@@ -38,7 +38,7 @@ Updated database reflecting order placed:
 
 ## Description
 
-Bamazon Manager allows you to manage your storefront by viewing your current products for sale, viewing your inventory, adding to your inventory and adding new products. To use Bamazon Manager, simply type node bamazonManager into the terminal.
+Bamazon Manager allows you to manage your storefront by viewing your current products for sale, viewing your inventory, adding to your inventory and adding new products. To use Bamazon Manager, simply type "node bamazonManager" into the terminal.
 
 ## Screenshots
 
