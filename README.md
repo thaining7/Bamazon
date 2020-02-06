@@ -36,7 +36,11 @@ Updated database reflecting order placed:
 
 # Introducing Bamazon Manager, your management solution for certified ACME goods
 
-## Bamazon Manager allows you to manage your storefront by viewing your current products for sale, viewing your inventory, adding to your inventory and adding new products. To use Bamazon Manager, simply type node bamazonManager into the terminal.
+## Description
+
+Bamazon Manager allows you to manage your storefront by viewing your current products for sale, viewing your inventory, adding to your inventory and adding new products. To use Bamazon Manager, simply type node bamazonManager into the terminal.
+
+## Screenshots
 
 Here are some screenshots demonstrating how the Bamazon Manger app works:
 
