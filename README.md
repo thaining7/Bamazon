@@ -1,8 +1,14 @@
 # Welcome to Bamazon, your source for certified ACME goods
 
-## Bamazon is a command line store front utilizing MySQL and Node.js. 
+## Description
 
-### To place an order, simply type node bamazonCustomer into the terminal. The app will then ask you which item you would like to purchase and the quanitity of the item. It will then display your total or notify you if there is not enough of the item in stock. It will then return you to the storefront.
+Bamazon is a command line store front utilizing MySQL and Node.js. 
+
+## How to use
+
+To place an order, simply type node bamazonCustomer into the terminal. The app will then ask you which item you would like to purchase and the quanitity of the item. It will then display your total or notify you if there is not enough of the item in stock. It will then return you to the storefront.
+
+## Screenshots
 
 Here are some screenshots demonstrating how the Bamazon storefront works:
 
@@ -23,7 +29,7 @@ Updated database reflecting order placed:
 
 ## Introducing Bamazon Manager, your management solution for certified ACME goods
 
-### Bamazon Manager allows you to manage your storefront by viewing your current products for sale, viewing your inventory, adding to your inventory and adding new products. To use Bamazon Manager, simply type node bamazonManager into the terminal.
+## Bamazon Manager allows you to manage your storefront by viewing your current products for sale, viewing your inventory, adding to your inventory and adding new products. To use Bamazon Manager, simply type node bamazonManager into the terminal.
 
 Here are some screenshots demonstrating how the Bamazon Manger app works:
 
