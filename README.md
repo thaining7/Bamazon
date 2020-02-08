@@ -2,7 +2,7 @@
 
 ## Description
 
-Bamazon is a command line store front utilizing MySQL and Node.js. 
+Bamazon is a command line store front built with MySQL and Node.js. 
 
 ## Tech Used
 
